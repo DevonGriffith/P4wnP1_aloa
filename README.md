@@ -1597,3 +1597,7 @@ it interferes with standard WiFi functionality used by P4wnP1 (crashes if the in
 
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+
+    
+# Forked by Devon Griffith to experiment with Cybersecurity Analysis
